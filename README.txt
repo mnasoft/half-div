@@ -1,1 +1,3 @@
-This is the stub README.txt for the "half-div" project.
+Проект "half-div" реализует алгоритм половинного деления
+для выполнения поиска корня функции на отрезке.
+
