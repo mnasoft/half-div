@@ -1,6 +1,6 @@
 ;;;; half-div.lisp
 
-(in-package #:half-div)
+(in-package :half-div)
 
 ;;; "half-div" goes here. Hacks and glory await!
 
